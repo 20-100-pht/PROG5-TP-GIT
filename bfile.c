@@ -26,6 +26,13 @@ BFILE *bstart(FILE *fichier, const char *mode){
    return NULL;
 }
 
+
+
+
+
+
+//test github
+
 /*
    bstop
    description : termine un accès bit à bit à un fichier préalablement démarré
